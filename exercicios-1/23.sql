@@ -1,0 +1,1 @@
+SELECT * FROM employees where first_name like '%arvi%' and gender = 'M';

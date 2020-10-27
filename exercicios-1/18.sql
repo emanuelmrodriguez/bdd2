@@ -1,0 +1,1 @@
+SELECT * from employees where first_name = 'Basil' and gender = 'M' and last_name = 'Strooper';
